@@ -1,7 +1,7 @@
-
-.ipynb_checkpoints/
 data/
-notebooks/
+images/
+ip_notebooks/
+notebooks/.ipynb_checkpoints
 scrapers/
 .DS_Store
 api_keys.txt
