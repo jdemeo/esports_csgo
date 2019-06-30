@@ -1,0 +1,8 @@
+
+.ipynb_checkpoints/
+data/
+notebooks/
+scrapers/
+.DS_Store
+api_keys.txt
+notes.txt
